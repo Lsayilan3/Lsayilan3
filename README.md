@@ -5,12 +5,12 @@
 </div></h1>
 <h3 align="center">React Front-End Developer</h3>
 
-
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated GIF" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+
 
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
