@@ -74,6 +74,6 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lsayilan3&show_icons=true&locale=en&layout=compact" alt="Lsayilan3" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lsayilan3&show_icons=true&locale=en&layout=compact" alt="Lsayilan3" /></p>
 
 
