@@ -74,37 +74,6 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-
-
-
-
-
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lsayilan3&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
-
-
-<br />
-
-
-
-
-<br />
-
-
-<br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lsayilan3&show_icons=true&locale=en&layout=compact" alt="Lsayilan3" /></p>
 
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
 
