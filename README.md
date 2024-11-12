@@ -1,19 +1,14 @@
-<h1 align="center"><div align="center">
- <a href="https://github.com/Lsayilan3">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Levent+Sayılan+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div></h1>
+<h1 align="center">Hi 👋, I'm Levent Sayılan</h1>
+
 <h3 align="center">React Front-End Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
-<p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated GIF" />
-</p>
 
 
 
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+
+
 
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
